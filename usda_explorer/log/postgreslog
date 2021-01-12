@@ -1,0 +1,11 @@
+LOG:  database system was shut down at 2018-11-29 15:23:50 EST
+LOG:  MultiXact member wraparound protections are now enabled
+LOG:  database system is ready to accept connections
+LOG:  autovacuum launcher started
+ERROR:  canceling autovacuum task
+CONTEXT:  automatic analyze of table "usda.public.nut_data"
+LOG:  received fast shutdown request
+LOG:  aborting any active transactions
+LOG:  autovacuum launcher shutting down
+LOG:  shutting down
+LOG:  database system is shut down
